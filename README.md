@@ -1,8 +1,6 @@
 <img src="https://i.imgur.com/bX4zIRO.png"/>
 
-<a href="https://discord.com/users/554738226800361472"><img align="left" src=""/></a>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/554738226800361472?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/554738226800361472)
+<a href="https://discord.com/users/554738226800361472"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/554738226800361472?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/></a>
 
 ☁  <a href="https://www.spigotmc.org/members/droreo002.416123/">Spigot Profile</a>
 🐱 <a href="https://karyakarsa.com/kamvret/" class="padding-left: 2em;">Github Profile Picture</a>
